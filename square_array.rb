@@ -1,8 +1,16 @@
-def square_array(array)
-  numbers = []
+def square_array(numbers)
+  new_array = []
   numbers.each do |number|
-    more_numbers << number(array) ** 2
+    numbers << number ** 2
   end
   more_numbers
 end
 
+def square_array(numbers)
+  new_array = []
+  array.each do |number|
+    
+     number ** 2  #add squared number to new_array
+  end
+  #new_array
+end
