@@ -5,3 +5,4 @@ def square_array(array)
   end
   more_numbers
 end
+
